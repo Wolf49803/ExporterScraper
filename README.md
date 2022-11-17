@@ -4,7 +4,7 @@ A program which finds the 1) expected Mandarin reflexes according to Middle Chin
 
 ## Instructions:
 
-Download the .jar file on GitHub. If you're on a Mac and have Java installed, you can then run it through opening terminal and then typing the following commands:
+Download the .jar file on GitHub. You can then run it through opening Terminal or Command Prompt and then typing the following commands:
 
 1. `cd Downloads`
 
